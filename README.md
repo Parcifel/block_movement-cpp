@@ -1,4 +1,4 @@
-# Blocked Off
+# Blocked Movement
 
 > #### This project was inspired by a game I coded in university.
 > The idea was that a piece can moveing on a 2D tiles plane can be blocked by walls. There are different ways of blocking the piece and the pieces could only move in certain directions.
