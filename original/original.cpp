@@ -1,3 +1,6 @@
+// This file should not be compiled
+#ifndef ORIGINAL
+#define ORIGINAL
 /**
  * This is the original algorithm for the problem.
  * 
@@ -115,3 +118,4 @@ class Board {
         }
 
 };
+#endif // ORIGINAL
